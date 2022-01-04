@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveDataSample</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_name">Enter name</string>
+    <string name="save_data">save data</string>
+    <string name="show_data">show data</string>
+</resources>
